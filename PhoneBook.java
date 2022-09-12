@@ -7,3 +7,13 @@ public class PhoneBook {
         //Welcome
     }
 }
+
+// method for searching entries
+
+private static String[] searchBy (String key) {
+    private String[] result = null;
+
+    // some work
+
+    return result
+}
